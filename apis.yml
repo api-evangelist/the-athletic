@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://theathletic.com', status: 301, note: 'declared website redirects to https://www.nytimes.com/athletic/ — a different registrable domain (theathletic.com -> nytimes.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/the-athletic.png
 name: The Athletic
 description: >-
